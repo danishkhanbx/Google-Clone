@@ -1,3 +1,3 @@
 # Google-Clone
-Uploading the code in few days!!!
+Uploading the code in a few days!!!
 
